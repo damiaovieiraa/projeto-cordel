@@ -1,3 +1,3 @@
 # Projeto Cordel
 
-[Visualize do projeto clicando aqui!](https://damiaovieiraa.github.io/projeto-cordel/)
+[Visualize o projeto clicando aqui!](https://damiaovieiraa.github.io/projeto-cordel/)
